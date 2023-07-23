@@ -10,7 +10,7 @@ Aplikasi ini dibuat untuk sistem manajemenisasi menu, karyawan dan juga pembelia
 
 untuk karyawan & kasir akan dilakukan 2x sehari (saat masuk & pulang)
 
-berikut **ERD V1 ** untuk aplikasi ini
+berikut **ERD V1** untuk aplikasi ini
 
 ![Image](https://user-images.githubusercontent.com/66302078/255404362-a611c927-52c1-4310-a96f-29858e0c519c.jpg)
 
